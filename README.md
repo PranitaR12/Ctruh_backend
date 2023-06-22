@@ -7,9 +7,10 @@ Python 3.6 or higher
 Django 3.0 or higher
 Django REST Framework 3.12 or higher
 drf-yasg 1.20 or higher (for API documentation)
+
 Setup
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/Ctruh_backend.git
+   git clone https://github.com/PranitaR12/Ctruh_backend.git
 2. Navigate to the project directory:
    cd Ctruh_beckend
 3. Create a virtual environment:
@@ -17,7 +18,7 @@ Setup
 4. Activate the virtual environment:
    .\env\Scripts\activate
    For macOS/Linux:
-   source env/bin/activate
+   env/bin/activate
 5. Install the project dependencies:
    pip install -r requirements.txt
 6. Run database migrations:
