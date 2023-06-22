@@ -66,4 +66,4 @@ git commit -m "Add my feature"
 git push origin my-feature-branch
 Submit a pull request with your changes for review.
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the License file for details.
